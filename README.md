@@ -7,7 +7,7 @@
 ---
 ##  Indice:
 
-* [Descripcion del Proyecto](https://github.com/CesarAngelesR/hotel_alura/edit/main/README.md#descripcion-del-proyecto)
+* [Descripcion del Proyecto](#descripcion-del-proyecto)
 
 * [Estado del proyecto](#Estado-del-proyecto)
 
