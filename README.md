@@ -144,11 +144,25 @@ Seguidamente nos solicitará la nacionalidad del huesped para lo cual en una caj
      <img width="500" heigth="500" src="https://user-images.githubusercontent.com/123194477/235372281-3df364e1-06b1-4dd4-83ed-489bd942b359.png">
 </p>
 
+Posteriomente nos solicitará el numero de contacto del cliente para lo cual lo capturaremos con el teclado de la PC. 
 
+Asimismo, el `numero de reserva` los da automaticamente por lo que no es necesario capturarlo.
 
+<p align="center" >
+     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/123194477/235373179-b9151c8e-40ac-49db-b04a-861519526864.png">
+</p>
 
+Seguidamente una vez teniendo capturados todos los datos solicitados, hacemos clic en guardar.
 
+<p align="center" >
+     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/123194477/235373313-f6c17ffe-9524-402e-be26-28f65f0ba747.png">
+</p>
 
+Una vez hecho clic en guardar se desplegara una pantalla confirmando que los datos han sido guardados.
+
+<p align="center" >
+     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/123194477/235373463-05054307-55c2-42eb-bbe9-1187bdf26a90.png">
+</p>
 
 
 
