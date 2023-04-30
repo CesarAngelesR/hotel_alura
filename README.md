@@ -72,8 +72,55 @@ Sistema de reserva de hotel. Controle y administre de forma óptima y fácil el 
 - `Menú de usuario`: Al hacer Login correctamente entraremos al Menú de Usuario en el cual vamos a elegir entre dos opciones, Si queremos registrar una nueva reserva o si deseamos hacer la búsqueda de alguna reserva.
 
 <p align="center" >
-     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/123194477/235365456-f9f501ac-1690-44b7-af56-ee99b6f9e9eb.png">
+     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/123194477/235369571-fb2d284a-8262-40ad-8099-244e2fac72a8.png">
 </p>
+
+- `Registro de Reservas`: Al elegir la opción Registro de Reservas en el Menú de usuario, nos lleva a la pantalla de Registro de Reservas, en ella realizaremos el registro de la reserva. Primeramente se solicita al fecha del Check In para lo cual seleccionaremos una fecha en el calendario que se despliega al hacer clic en el icono que se encuentra al lado derecho de la caja de texto que tiene la siguiente forma:
+
+<p align="center" >
+     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/123194477/235370396-08b24d73-abe7-4538-973b-8446a599e9e7.png">
+</p>
+
+Primeramente se solicita al fecha del Check In para lo cual seleccionaremos una fecha en el calendario. Para desplegarlo hacemos clic el icono que se encuentra al lado derecho de la caja de texto que tiene la siguiente forma:
+
+<p align="center" >
+     <img width="200" heigth="200" src="https://user-images.githubusercontent.com/123194477/235370331-2789cf16-aeab-401d-ac5b-d23a1a3e3179.png">
+</p>
+
+Una vez hecho clic el Check In, se desplegará el calendario, en el buscaremos la fecha en que el huesped deseé hospedarse. El calendario esta configurado con el dia, mes y año actual.
+
+<p align="center" >
+     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/123194477/235370523-225b57cf-f188-452e-9cfb-f84f9a4ccc4b.png">
+</p>
+
+De la misma forma el sistema nos solicitará la fecha de Check Out para lo cual haremos el mismo procedimiento que en con el Check In.
+
+Una vez teniendo capturadas las fechas de Check In y Check Out, el sistema automaticamente nos arroja la cuota para el pago de la reservacion.
+
+<p align="center" >
+     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/123194477/235370828-533d524f-c687-47e0-87fc-f2b31551a14b.png">
+</p>
+
+Porteriormente nos solicitará la forma de pago, para ello tenemos una caja de seleccion multiple donde se elije la opcion de pago haciendo clic en ella.
+
+<p align="center" >
+     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/123194477/235370969-28b08eeb-0e6c-49f9-b429-474e95571004.png">
+</p>
+
+Una vez terminado de llenar los campos solicitado daremos clic en siguiente para que se guarde la reserva.
+
+<p align="center" >
+     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/123194477/235371114-fe1a092b-d86c-4690-8df0-79f00a04e27b.png">
+</p>
+
+Una vez guardada la reserva nos aparecerá un mensaje de confirmacion.
+
+<p align="center" >
+     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/123194477/235371280-3e577d04-2bda-46c0-b296-94143e7be95e.png">
+</p>
+
+
+
 
 
 
