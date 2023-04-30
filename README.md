@@ -1,15 +1,15 @@
-# Sistema de Reservas y Huesperes | Hotel Alura
+# :hotel: Sistema de Reservas y Huespedes | Hotel Alura
 
 <p align="center" >
      <img width="300" heigth="300" src="https://user-images.githubusercontent.com/91544872/189419040-c093db78-c970-4960-8aca-ffcc11f7ffaf.png">
 </p>
 
 ---
-##  Indice:
+##  :bookmark_tabs: Indice:
 
 * [Descripcion del Proyecto](#descripcion-del-proyecto)
 
-* [Estado del proyecto](#Estado-del-proyecto)
+* [Estado del proyecto](#estado-del-proyecto)
 
 * [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
@@ -25,15 +25,63 @@
 
 * [Conclusión](#conclusión)
 ---
-## Descripcion del Proyecto:
+## :pencil: Descripcion del Proyecto:
 
-### Proyecto en desarrollo de un sistema para el Hotel Alura el cual permite el registro de reservaciones en el hotel capturando también los datos del huéspedes que realiza la reserva ademas, el sistema también permite buscar y actualizar los datos ya registrados de reservas y de huéspedes.
+Sistema de reserva de hotel. Controle y administre de forma óptima y fácil el flujo de reservas y de huespédes del hotel. Esta herramienta le permitirá llevar un control completo y detallado de sus reservas y huéspedes, tendrá acceso a heramientas especiales para tareas específicas como lo son:
+
+- Registro de Reservas y Huéspedes
+- Edición de Reservas y Huéspedes existentes
+- Eliminar todo tipo de registros
 
 <p align="center" >
      <img width="300" heigth="300" src="https://user-images.githubusercontent.com/123194477/235321424-dca5a6dd-c4af-46a8-89bb-94a01110e846.png">
 </p>
 
 ---
+
+## :chart_with_upwards_trend: Estado del proyecto:
+
+<h4 align="center">
+:construction: Proyecto en construcción :construction:
+</h4>
+
+### Proyecto inicial, se agregaran mas funcionalidades en el futuro.
+
+---
+
+## :white_check_mark: Características de la aplicación y demostración:
+
+- `Pantalla inicial`: Al ejecutar el sistema se ingresa a la pantalla de inicio. Para continuar hacer clic en LOGIN.
+
+<p align="center" >
+     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/123194477/235364270-61f11037-5630-47fc-b515-f85b2724a2eb.png">
+</p>
+
+- `Login`: Al ingrear a la pantalla de LOGIN se solicitará se ingrese un nombre de usuario y su contraseña para que solo personal autorizado pueda hacer uso del sistema. Una vez ingresados los datos solicitados dar clic en ENTRAR. 
+
+<p align="center" >
+     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/123194477/235364566-e2ac5fb0-5088-4f2f-bcf2-70fd1400509d.png">
+</p>
+
+- `Login incorrecto`: En caso de que los datos ingresados sean incorrectos arrojara un mensaje indicando que los datos no son correctos.
+
+<p align="center" >
+     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/123194477/235364874-49f4a7ce-ce04-4088-acb1-3dfc019bf306.png">
+</p>
+
+- `Menú de usuario`: Al hacer Login correctamente entraremos al Menú de Usuario en el cual vamos a elegir entre dos opciones, Si queremos registrar una nueva reserva o si deseamos hacer la búsqueda de alguna reserva.
+
+<p align="center" >
+     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/123194477/235365456-f9f501ac-1690-44b7-af56-ee99b6f9e9eb.png">
+</p>
+
+
+
+
+
+- `Funcionalidad 2`: descripción de la funcionalidad 2
+- `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2
+- `Funcionalidad 3`: descripción de la funcionalidad 3
 
 
 
