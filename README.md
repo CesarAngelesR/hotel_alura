@@ -7,15 +7,15 @@
 ---
 ##  :bookmark_tabs: Indice:
 
-* [Descripcion del Proyecto](#descripcion-del-proyecto)
+* [Descripcion del Proyecto](#pencil-descripcion-del-proyecto)
 
-* [Estado del proyecto](#estado-del-proyecto)
+* [Estado del proyecto](#chart_with_upwards_trend-estado-del-proyecto)
 
-* [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+* [Características de la aplicación y demostración](#white_check_mark-características-de-la-aplicación-y-demostración)
 
-* [Tecnologías utilizadas](#tecnologías-utilizadas)
+* [Tecnologías utilizadas](#%EF%B8%8F-tecnologías-utilizadas)
 
-* [Personas Contribuyentes](#personas-contribuyentes)
+* [Personas Contribuyentes](#construction_worker-personas-contribuyentes)
 
 ---
 ## :pencil: Descripcion del Proyecto:
