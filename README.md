@@ -17,11 +17,6 @@
 
 * [Personas Contribuyentes](#personas-contribuyentes)
 
-* [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-
-* [Licencia](#licencia)
-
-* [Conclusión](#conclusión)
 ---
 ## :pencil: Descripcion del Proyecto:
 
@@ -223,7 +218,7 @@ Se hace mencion que si se elimina un registro de una tabla, en la otra seguira e
 
 ---
 
-## Personas Contribuyentes:
+## :construction_worker: Personas Contribuyentes:
 
 | [<img src="https://avatars.githubusercontent.com/u/123194477?v=4" width=115><br><sub>Cesar Angeles Rodriguez</sub>](https://github.com/CesarAngelesR) |  [<img src="https://avatars.githubusercontent.com/u/101413385?v=4" width=115><br><sub>Alura Latam Profes</sub>](https://github.com/aluralatamprofes) |  [<img src="https://avatars.githubusercontent.com/u/91544872?v=4" width=115><br><sub>Génesys Rondón</sub>](https://github.com/genesysaluralatam) |
 | :---: | :---: | :---: |
