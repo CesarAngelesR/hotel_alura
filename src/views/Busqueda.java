@@ -35,6 +35,7 @@ import java.awt.event.MouseMotionAdapter;
 import java.sql.Date;
 
 import javax.swing.JScrollPane;
+import javax.swing.UIManager;
 
 @SuppressWarnings("serial")
 public class Busqueda extends JFrame {
@@ -85,10 +86,6 @@ public class Busqueda extends JFrame {
 		setLocationRelativeTo(null);
 		setUndecorated(true);
 		contentPane.setLayout(null);
-		JScrollPane scrollPaneReserva = new JScrollPane(tbReservas);
-		JScrollPane scrollPaneHuespedes =new JScrollPane(tbHuespedes);
-		
-		
 		
 		
 		txtBuscar = new JTextField();
@@ -116,7 +113,6 @@ public class Busqueda extends JFrame {
 
 		tbHuespedes = new JTable();
 		tbHuespedes.setFont(new Font("Dialog", Font.PLAIN, 16));
-		panel.addTab("Huespedes",new ImageIcon(Busqueda.class.getResource("/imagenes/pessoas.png")),tbHuespedes, null);
 		modeloHuesped = (DefaultTableModel) tbHuespedes.getModel();
 		modeloHuesped.addColumn("Numero de Huesped");
 		modeloHuesped.addColumn("Nombre");
@@ -127,13 +123,14 @@ public class Busqueda extends JFrame {
 		modeloHuesped.addColumn("Numero de Reserva");
 		tbHuespedes.setAutoResizeMode(JTable.AUTO_RESIZE_ALL_COLUMNS);
 		LlenarTablaHuespedes();
-		scrollPaneHuespedes.setVisible(true);
-
-
+		
+		JScrollPane scroll_tableHuespedes = new JScrollPane(tbHuespedes);
+		panel.addTab("Huéspedes", new ImageIcon(Busqueda.class.getResource("/imagenes/pessoas.png")),
+				scroll_tableHuespedes, null);
+		scroll_tableHuespedes.setVisible(true);
 		
 		tbReservas = new JTable();
 		tbReservas.setFont(new Font("Roboto", Font.PLAIN, 16));
-		panel.addTab("Reservas",new ImageIcon(Busqueda.class.getResource("/imagenes/reservado.png")),tbReservas, null);
 		modelo = (DefaultTableModel) tbReservas.getModel();
 		modelo.addColumn("Numero de Reserva");
 		modelo.addColumn("Fecha Check In");
@@ -141,9 +138,12 @@ public class Busqueda extends JFrame {
 		modelo.addColumn("Valor");
 		modelo.addColumn("Forma de Pago");
 		tbReservas.setAutoResizeMode(JTable.AUTO_RESIZE_ALL_COLUMNS);
-		scrollPaneReserva.setVisible(true);
 		LlenarTablaReservas();
 		
+		JScrollPane scroll_table = new JScrollPane(tbReservas);
+		panel.addTab("Reservas", new ImageIcon(Busqueda.class.getResource("/imagenes/reservado.png")), scroll_table,
+				null);
+		scroll_table.setVisible(true);
 		
 		JLabel logo = new JLabel("");
 		logo.setBounds(46, 31, 104, 107);
