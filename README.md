@@ -164,6 +164,58 @@ Una vez hecho clic en guardar se desplegara una pantalla confirmando que los dat
      <img width="500" heigth="500" src="https://user-images.githubusercontent.com/123194477/235373463-05054307-55c2-42eb-bbe9-1187bdf26a90.png">
 </p>
 
+- `Búsqueda`: En el Menú de usuario haciendo clic en Búsqueda nos llevara a una nueva pantalla donde podremos buscar las reservas que se han realizado asi como los datos del huesped que realizó la reserva. De inicio nos mostrará dos pestañas una con la lista de huespedes y otra con la lista de reservas y la que estará activa sera la de huespedes. En cada una de las listas podremos hacer modificaciones a aca uno de los registros que se requieran.
+
+<p align="center" >
+     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/123194477/235391907-1d2892a3-4cad-4f18-a1c8-c64fb82bc063.png">
+</p>
+Para hacer una busqueda basta con colocar en el campo "Introducir el numero de ID de la reserva a buscar" el numero de reserva que desea buscar y porteriormente hacer clic en "BUSCAR" y nos regresara el registro que contiene la "reserva" asi como el "huesped".
+
+<p align="center" >
+     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/123194477/235393661-90d57295-8257-49f6-a76a-fc1129a23c92.png">
+</p>
+
+<p align="center" >
+     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/123194477/235393738-4aa5d863-b9b4-4c13-8d46-04c9163caa50.png">
+</p>
+
+- `Editar`: Para editar un registro haremos doble clic sobre la celda que deseemos editar y el set point se colocará en la misma para hacer las modificaciones necesarias.
+
+<p align="center" >
+     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/123194477/235392356-2f62cb3b-ac1c-4970-a60b-d4360f715f0f.png">
+</p>
+
+Una vez realizados los cambios pulsaremos la tecla enter para que el registro se seleccione por completo y despues haremos clic en editar para que los cambios sean guardados en la base de datos
+
+<p align="center" >
+     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/123194477/235392677-6adc5493-3ff2-4668-a0ae-87d90b14f91a.png">
+</p>
+
+Una vez hayamos hecho clic en editar nos aparecera un mensaje confirmando que el registro se ha modificado con exito.
+
+<p align="center" >
+     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/123194477/235392962-9db920e5-ff10-4cab-b9cb-93e2a64fa0d7.png">
+</p>
+
+- `Eliminar`: Para eliminar un registro basta con seleccionar la fila en donde se encuentra el registro y hacer clic en eliminar. Nos aparecera un mensaje preguntando si deseamos eliminar el registro a lo cual hacemos clic en si para eliminar el registro o en no para cancelar la eliminacion del registro.
+
+<p align="center" >
+     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/123194477/235394013-55fa6248-27f6-4dfc-9259-7b89564f3c54.png">
+</p>
+![image]()
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
